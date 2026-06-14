@@ -1,0 +1,13 @@
+{
+  "name": "skills-claude",
+  "version": "1.0.0",
+  "description": "David's personal Claude Code skills marketplace",
+  "plugins": [
+    {
+      "name": "my-skills",
+      "description": "Personal skills for Claude Code",
+      "version": "1.0.0",
+      "source": "./my-skills"
+    }
+  ]
+}
